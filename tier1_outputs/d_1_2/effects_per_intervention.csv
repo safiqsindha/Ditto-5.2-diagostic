@@ -1,0 +1,16 @@
+n,control_acc,intervention_acc,delta_acc,log_odds_effect,b_ctrl_correct_intv_wrong,c_ctrl_wrong_intv_correct,mcnemar_stat,p_value,model,condition,p_value_adj_bh
+200,0.475,0.475,0.0,0.0,0,0,,,gpt-5,v51_constraint,1.0
+200,0.475,0.475,0.0,0.0,0,0,,,gpt-5,three_shot,1.0
+200,0.475,0.475,0.0,0.0,0,0,,,gpt-5,cot,1.0
+200,0.475,0.475,0.0,0.0,0,0,,,claude-sonnet-4-5,v51_constraint,1.0
+200,0.475,0.475,0.0,0.0,0,0,,,claude-sonnet-4-5,three_shot,1.0
+200,0.475,0.475,0.0,0.0,0,0,,,claude-sonnet-4-5,cot,1.0
+200,0.475,0.475,0.0,0.0,0,0,,,qwen3.6-plus,v51_constraint,1.0
+200,0.475,0.475,0.0,0.0,0,0,,,qwen3.6-plus,three_shot,1.0
+200,0.475,0.475,0.0,0.0,0,0,,,qwen3.6-plus,cot,1.0
+200,0.475,0.475,0.0,0.0,0,0,,,glm-5,v51_constraint,1.0
+200,0.475,0.475,0.0,0.0,0,0,,,glm-5,three_shot,1.0
+200,0.475,0.475,0.0,0.0,0,0,,,glm-5,cot,1.0
+200,0.475,0.475,0.0,0.0,0,0,,,claude-haiku-4-5,v51_constraint,1.0
+200,0.475,0.475,0.0,0.0,0,0,,,claude-haiku-4-5,three_shot,1.0
+200,0.475,0.475,0.0,0.0,0,0,,,claude-haiku-4-5,cot,1.0

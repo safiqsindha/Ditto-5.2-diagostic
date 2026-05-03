@@ -1,0 +1,13 @@
+n,control_acc,intervention_acc,delta_acc,log_odds_effect,b_ctrl_correct_intv_wrong,c_ctrl_wrong_intv_correct,mcnemar_stat,p_value,model,format,p_value_adj_bh
+100,0.6,0.6,0.0,0.0,0,0,,,gpt-5,bullet_list,1.0
+100,0.6,0.6,0.0,0.0,0,0,,,gpt-5,json_schema,1.0
+100,0.6,0.6,0.0,0.0,0,0,,,gpt-5,dialogue,1.0
+100,0.6,0.6,0.0,0.0,0,0,,,gpt-5,socratic,1.0
+100,0.6,0.6,0.0,0.0,0,0,,,gpt-5.4-mini,bullet_list,1.0
+100,0.6,0.6,0.0,0.0,0,0,,,gpt-5.4-mini,json_schema,1.0
+100,0.6,0.6,0.0,0.0,0,0,,,gpt-5.4-mini,dialogue,1.0
+100,0.6,0.6,0.0,0.0,0,0,,,gpt-5.4-mini,socratic,1.0
+100,0.6,0.6,0.0,0.0,0,0,,,gemini-3-flash-preview,bullet_list,1.0
+100,0.6,0.6,0.0,0.0,0,0,,,gemini-3-flash-preview,json_schema,1.0
+100,0.6,0.6,0.0,0.0,0,0,,,gemini-3-flash-preview,dialogue,1.0
+100,0.6,0.6,0.0,0.0,0,0,,,gemini-3-flash-preview,socratic,1.0

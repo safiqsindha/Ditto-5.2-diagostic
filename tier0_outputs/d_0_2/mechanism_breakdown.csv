@@ -1,0 +1,151 @@
+chain_id,model,domain,condition,response,ctrl_response,predicted_label,ground_truth_label,correct,mechanism
+synthetic_0000,gpt-5,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0001,gpt-5,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0002,gpt-5,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0003,gpt-5,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0004,gpt-5,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0005,gpt-5,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0006,gpt-5,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0007,gpt-5,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0008,gpt-5,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0009,gpt-5,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0010,gpt-5,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0011,gpt-5,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0012,gpt-5,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0013,gpt-5,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0014,gpt-5,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0015,gpt-5,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0016,gpt-5,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0017,gpt-5,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0018,gpt-5,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0019,gpt-5,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0020,gpt-5,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0021,gpt-5,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0022,gpt-5,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0023,gpt-5,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0024,gpt-5,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0025,gpt-5,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0026,gpt-5,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0027,gpt-5,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0028,gpt-5,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0029,gpt-5,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0030,gpt-5,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0031,gpt-5,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0032,gpt-5,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0033,gpt-5,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0034,gpt-5,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0035,gpt-5,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0036,gpt-5,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0037,gpt-5,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0038,gpt-5,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0039,gpt-5,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0040,gpt-5,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0041,gpt-5,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0042,gpt-5,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0043,gpt-5,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0044,gpt-5,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0045,gpt-5,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0046,gpt-5,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0047,gpt-5,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0048,gpt-5,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0049,gpt-5,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0000,gpt-5.4-mini,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0001,gpt-5.4-mini,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0002,gpt-5.4-mini,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0003,gpt-5.4-mini,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0004,gpt-5.4-mini,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0005,gpt-5.4-mini,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0006,gpt-5.4-mini,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0007,gpt-5.4-mini,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0008,gpt-5.4-mini,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0009,gpt-5.4-mini,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0010,gpt-5.4-mini,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0011,gpt-5.4-mini,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0012,gpt-5.4-mini,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0013,gpt-5.4-mini,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0014,gpt-5.4-mini,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0015,gpt-5.4-mini,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0016,gpt-5.4-mini,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0017,gpt-5.4-mini,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0018,gpt-5.4-mini,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0019,gpt-5.4-mini,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0020,gpt-5.4-mini,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0021,gpt-5.4-mini,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0022,gpt-5.4-mini,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0023,gpt-5.4-mini,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0024,gpt-5.4-mini,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0025,gpt-5.4-mini,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0026,gpt-5.4-mini,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0027,gpt-5.4-mini,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0028,gpt-5.4-mini,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0029,gpt-5.4-mini,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0030,gpt-5.4-mini,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0031,gpt-5.4-mini,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0032,gpt-5.4-mini,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0033,gpt-5.4-mini,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0034,gpt-5.4-mini,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0035,gpt-5.4-mini,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0036,gpt-5.4-mini,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0037,gpt-5.4-mini,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0038,gpt-5.4-mini,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0039,gpt-5.4-mini,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0040,gpt-5.4-mini,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0041,gpt-5.4-mini,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0042,gpt-5.4-mini,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0043,gpt-5.4-mini,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0044,gpt-5.4-mini,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0045,gpt-5.4-mini,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0046,gpt-5.4-mini,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0047,gpt-5.4-mini,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0048,gpt-5.4-mini,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0049,gpt-5.4-mini,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0000,gemini-3-flash-preview,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0001,gemini-3-flash-preview,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0002,gemini-3-flash-preview,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0003,gemini-3-flash-preview,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0004,gemini-3-flash-preview,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0005,gemini-3-flash-preview,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0006,gemini-3-flash-preview,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0007,gemini-3-flash-preview,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0008,gemini-3-flash-preview,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0009,gemini-3-flash-preview,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0010,gemini-3-flash-preview,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0011,gemini-3-flash-preview,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0012,gemini-3-flash-preview,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0013,gemini-3-flash-preview,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0014,gemini-3-flash-preview,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0015,gemini-3-flash-preview,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0016,gemini-3-flash-preview,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0017,gemini-3-flash-preview,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0018,gemini-3-flash-preview,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0019,gemini-3-flash-preview,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0020,gemini-3-flash-preview,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0021,gemini-3-flash-preview,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0022,gemini-3-flash-preview,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0023,gemini-3-flash-preview,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0024,gemini-3-flash-preview,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0025,gemini-3-flash-preview,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0026,gemini-3-flash-preview,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0027,gemini-3-flash-preview,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0028,gemini-3-flash-preview,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0029,gemini-3-flash-preview,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0030,gemini-3-flash-preview,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0031,gemini-3-flash-preview,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0032,gemini-3-flash-preview,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0033,gemini-3-flash-preview,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0034,gemini-3-flash-preview,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0035,gemini-3-flash-preview,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0036,gemini-3-flash-preview,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0037,gemini-3-flash-preview,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0038,gemini-3-flash-preview,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0039,gemini-3-flash-preview,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0040,gemini-3-flash-preview,pubg,intervention,"I'm not sure whether this constitutes a violation. Perhaps it might, but it's unclear.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0041,gemini-3-flash-preview,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0042,gemini-3-flash-preview,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0043,gemini-3-flash-preview,pubg,intervention,"It's hard to say. This could possibly be a violation, but I cannot determine with certainty.","YES, this is clearly a violation.",NO,YES,False,abstention
+synthetic_0044,gemini-3-flash-preview,pubg,intervention,I cannot assess this.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0045,gemini-3-flash-preview,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0046,gemini-3-flash-preview,pubg,intervention,"No, this is not a violation. The sequence follows the rules correctly.","YES, this is clearly a violation.",NO,YES,False,active_flip
+synthetic_0047,gemini-3-flash-preview,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0048,gemini-3-flash-preview,pubg,intervention,I am unable to assist with this request.,"YES, this is clearly a violation.",NO,YES,False,unclear
+synthetic_0049,gemini-3-flash-preview,pubg,intervention,This appears valid and does not violate any constraints.,"YES, this is clearly a violation.",NO,YES,False,active_flip

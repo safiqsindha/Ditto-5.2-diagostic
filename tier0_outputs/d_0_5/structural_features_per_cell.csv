@@ -1,0 +1,13 @@
+model,domain,condition,token_count,refusal_present,refusal_count,hedge_present,hedge_count,self_reference_present,self_reference_count,confidence_present,confidence_count
+claude-sonnet-4-5,nba,control,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+claude-sonnet-4-5,nba,intervention,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+claude-sonnet-4-5,pubg,control,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+claude-sonnet-4-5,pubg,intervention,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+glm-5,nba,control,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+glm-5,nba,intervention,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+glm-5,pubg,control,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+glm-5,pubg,intervention,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+gpt-5,nba,control,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+gpt-5,nba,intervention,12.266666666666667,0.4666666666666667,0.4666666666666667,0.5333333333333333,1.6,0.5333333333333333,0.5333333333333333,0.4666666666666667,0.4666666666666667
+gpt-5,pubg,control,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+gpt-5,pubg,intervention,10.933333333333334,0.6333333333333333,0.6333333333333333,0.36666666666666664,1.1,0.36666666666666664,0.36666666666666664,0.6333333333333333,0.6333333333333333
