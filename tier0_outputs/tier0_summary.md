@@ -1,13 +1,13 @@
 # Tier 0 Summary
 
-Generated: 2026-05-03T19:24:36.483659+00:00
+Generated: 2026-05-03T20:30:24.416447+00:00
 
 ## Pipeline run results
 - D-0.1: OK (1.7s)
 - D-0.2: OK (1.1s)
-- D-0.3: OK (7.3s)
-- D-0.4: OK (2.7s)
-- D-0.5: OK (1.7s)
+- D-0.3: OK (7.4s)
+- D-0.4: OK (2.5s)
+- D-0.5: OK (1.6s)
 
 ---
 
@@ -15,7 +15,7 @@ Generated: 2026-05-03T19:24:36.483659+00:00
 
 # D-0.1 Factual Summary — Per-cell breakdown
 
-Generated: 2026-05-03T19:24:23.513704+00:00
+Generated: 2026-05-03T20:30:11.644842+00:00
 
 ## Cell counts
 - Total cells analyzed: 15
@@ -48,7 +48,7 @@ _Auto-generated factual summary. Interpretation is deferred to authors._
 
 # D-0.2 Factual Summary — Confusion-matrix structure
 
-Generated: 2026-05-03T19:24:24.617151+00:00
+Generated: 2026-05-03T20:30:12.769918+00:00
 
 ## gpt-5 (50 anti-detection cases)
 - active_flip: 17 (34.0%)
@@ -80,7 +80,7 @@ _Auto-generated factual summary. Interpretation deferred to authors._
 
 # D-0.3 Factual Summary — Statistical power audit
 
-Generated: 2026-05-03T19:24:31.898784+00:00
+Generated: 2026-05-03T20:30:20.155862+00:00
 
 ## Sample structure
 - Paired observations (chains): 200
@@ -113,7 +113,7 @@ _Auto-generated factual summary. Interpretation deferred to authors._
 
 # D-0.4 Factual Summary — v5 corpus confound check
 
-Generated: 2026-05-03T19:24:34.577373+00:00
+Generated: 2026-05-03T20:30:22.627473+00:00
 
 ## Overall: 5/20 domain-check combinations flagged as confounded
 
@@ -160,7 +160,7 @@ _Auto-generated factual summary. Interpretation deferred to authors._
 
 # D-0.5 Factual Summary — Output structure analysis
 
-Generated: 2026-05-03T19:24:36.291621+00:00
+Generated: 2026-05-03T20:30:24.246960+00:00
 
 ## Mean structural features (control vs intervention)
 

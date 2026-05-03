@@ -1,6 +1,6 @@
 # D-1.1: Overall symbolic detection summary
 
-Generated: 2026-05-03T19:25:11.141495+00:00
+Generated: 2026-05-03T20:30:26.532805+00:00
 
 ## Per-domain accuracy
 - pubg: accuracy=1.000 (real TN=1.000, shuffled TP=1.000)

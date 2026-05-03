@@ -1,6 +1,6 @@
 # D-0.3 Factual Summary — Statistical power audit
 
-Generated: 2026-05-03T19:24:31.898784+00:00
+Generated: 2026-05-03T20:30:20.155862+00:00
 
 ## Sample structure
 - Paired observations (chains): 200

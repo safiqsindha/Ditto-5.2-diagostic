@@ -1,6 +1,6 @@
 # D-1.2 Factual Summary — Baseline-intervention comparison
 
-Generated: 2026-05-03T19:25:12.255996+00:00
+Generated: 2026-05-03T20:30:27.625330+00:00
 
 ## Per (model, intervention) effects
 - gpt-5 × v51_constraint: log-odds=0.0000, p=nan, p_adj=1.0000 

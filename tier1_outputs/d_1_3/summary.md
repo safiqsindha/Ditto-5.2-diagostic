@@ -1,6 +1,6 @@
 # D-1.3 Factual Summary — Format variation
 
-Generated: 2026-05-03T19:25:13.384579+00:00
+Generated: 2026-05-03T20:30:28.759565+00:00
 
 ## Format accuracy ranking (all models combined)
 - bullet_list: mean accuracy=0.600

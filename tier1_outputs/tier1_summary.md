@@ -1,6 +1,6 @@
 # Tier 1 Summary
 
-Generated: 2026-05-03T19:25:14.494936+00:00
+Generated: 2026-05-03T20:30:29.902000+00:00
 
 Total Tier 1 API cost: $0.00
 
@@ -22,7 +22,7 @@ _Summary not found at /home/user/Ditto-5.2-diagostic/tier1_outputs/d_1_1/summary
 
 # D-1.2 Factual Summary — Baseline-intervention comparison
 
-Generated: 2026-05-03T19:25:12.255996+00:00
+Generated: 2026-05-03T20:30:27.625330+00:00
 
 ## Per (model, intervention) effects
 - gpt-5 × v51_constraint: log-odds=0.0000, p=nan, p_adj=1.0000 
@@ -54,7 +54,7 @@ _Auto-generated factual summary. Interpretation deferred to authors._
 
 # D-1.3 Factual Summary — Format variation
 
-Generated: 2026-05-03T19:25:13.384579+00:00
+Generated: 2026-05-03T20:30:28.759565+00:00
 
 ## Format accuracy ranking (all models combined)
 - bullet_list: mean accuracy=0.600
@@ -90,7 +90,7 @@ _Auto-generated factual summary. Interpretation deferred to authors._
 
 # D-1.4 Factual Summary — v1 corpus replay
 
-Generated: 2026-05-03T19:25:14.379416+00:00
+Generated: 2026-05-03T20:30:29.787129+00:00
 
 Intervention adaptation note: Adapted from v5.1 constraint paragraph: replaced game-domain references with 'Pokémon battle' references. Exact wording change documented here. [PLACEHOLDER: fill in exact adaptation when v5.1 prompt wording is confirmed]
 

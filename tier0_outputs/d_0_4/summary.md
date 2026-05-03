@@ -1,6 +1,6 @@
 # D-0.4 Factual Summary — v5 corpus confound check
 
-Generated: 2026-05-03T19:24:34.577373+00:00
+Generated: 2026-05-03T20:30:22.627473+00:00
 
 ## Overall: 5/20 domain-check combinations flagged as confounded
 

@@ -1,6 +1,6 @@
 # D-1.1: NBA symbolic detection summary
 
-Generated: 2026-05-03T19:25:11.119880+00:00
+Generated: 2026-05-03T20:30:26.509373+00:00
 
 ## Accuracy metrics
 - Total chains: 60

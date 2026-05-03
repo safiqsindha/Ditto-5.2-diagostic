@@ -1,6 +1,6 @@
 # D-1.4 Factual Summary — v1 corpus replay
 
-Generated: 2026-05-03T19:25:14.379416+00:00
+Generated: 2026-05-03T20:30:29.787129+00:00
 
 Intervention adaptation note: Adapted from v5.1 constraint paragraph: replaced game-domain references with 'Pokémon battle' references. Exact wording change documented here. [PLACEHOLDER: fill in exact adaptation when v5.1 prompt wording is confirmed]
 

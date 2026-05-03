@@ -1,6 +1,6 @@
 # D-0.1 Factual Summary — Per-cell breakdown
 
-Generated: 2026-05-03T19:24:23.513704+00:00
+Generated: 2026-05-03T20:30:11.644842+00:00
 
 ## Cell counts
 - Total cells analyzed: 15

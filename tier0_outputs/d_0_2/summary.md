@@ -1,6 +1,6 @@
 # D-0.2 Factual Summary — Confusion-matrix structure
 
-Generated: 2026-05-03T19:24:24.617151+00:00
+Generated: 2026-05-03T20:30:12.769918+00:00
 
 ## gpt-5 (50 anti-detection cases)
 - active_flip: 17 (34.0%)

@@ -1,6 +1,6 @@
 # D-0.5 Factual Summary — Output structure analysis
 
-Generated: 2026-05-03T19:24:36.291621+00:00
+Generated: 2026-05-03T20:30:24.246960+00:00
 
 ## Mean structural features (control vs intervention)
 

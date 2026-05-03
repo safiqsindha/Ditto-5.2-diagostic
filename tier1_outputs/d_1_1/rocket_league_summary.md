@@ -1,6 +1,6 @@
 # D-1.1: ROCKET_LEAGUE symbolic detection summary
 
-Generated: 2026-05-03T19:25:11.134174+00:00
+Generated: 2026-05-03T20:30:26.525175+00:00
 
 ## Accuracy metrics
 - Total chains: 60
