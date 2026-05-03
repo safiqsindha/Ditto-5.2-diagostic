@@ -15,13 +15,13 @@ SHA-256 hash NOT YET COMPUTED — awaiting both-author sign-off.
 
 ---
 
-## [PENDING] Entry 002 — Pre-registration sign-off
+## Entry 002 — Pre-registration sign-off
 
-**Timestamp:** _________________
+**Timestamp:** 2026-05-03
 **Authors:** Safiq Sindha, Myriam Sindha
 **Action:** Both authors sign `DDK_v0.1_PREREG.md`.
-**Hash of signed document:** _________________
-**Notes:** After this entry, `DDK_v0.1_PREREG.md` is read-only.
+**Hash of signed document:** d2793dbd65909f8bb5b4399cb1ede1cb700ab9e7ceac25a76231ee9d074f7250
+**Notes:** After this entry, `DDK_v0.1_PREREG.md` is read-only. PR #1 merged to main.
 
 ---
 
