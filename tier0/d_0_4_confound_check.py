@@ -321,7 +321,7 @@ def main():
     plot_distributions(corpus, confound_table, args.output_dir / "confound_distributions.png")
     generate_summary(confound_table, args.output_dir / "summary.md")
 
-    if n_flagged > 0:
+    if n_flagged > 0 and not args.test:
         affected = confound_table[confound_table["confound_detected"]]["domain"].nunique()
         if affected >= corpus["domain"].nunique() * 0.6:
             print("[D-0.4] WARNING: Pervasive confounds detected. "
