@@ -1,0 +1,61 @@
+chain_id,domain,chain_type,symbolic_violation,violation_type,violation_position,details,symbolic_pred_shuffled
+pubg_real_0000,pubg,real,False,,,No violations detected,False
+pubg_real_0001,pubg,real,False,,,No violations detected,False
+pubg_real_0002,pubg,real,False,,,No violations detected,False
+pubg_real_0003,pubg,real,False,,,No violations detected,False
+pubg_real_0004,pubg,real,False,,,No violations detected,False
+pubg_real_0005,pubg,real,False,,,No violations detected,False
+pubg_real_0006,pubg,real,False,,,No violations detected,False
+pubg_real_0007,pubg,real,False,,,No violations detected,False
+pubg_real_0008,pubg,real,False,,,No violations detected,False
+pubg_real_0009,pubg,real,False,,,No violations detected,False
+pubg_real_0010,pubg,real,False,,,No violations detected,False
+pubg_real_0011,pubg,real,False,,,No violations detected,False
+pubg_real_0012,pubg,real,False,,,No violations detected,False
+pubg_real_0013,pubg,real,False,,,No violations detected,False
+pubg_real_0014,pubg,real,False,,,No violations detected,False
+pubg_real_0015,pubg,real,False,,,No violations detected,False
+pubg_real_0016,pubg,real,False,,,No violations detected,False
+pubg_real_0017,pubg,real,False,,,No violations detected,False
+pubg_real_0018,pubg,real,False,,,No violations detected,False
+pubg_real_0019,pubg,real,False,,,No violations detected,False
+pubg_real_0020,pubg,real,False,,,No violations detected,False
+pubg_real_0021,pubg,real,False,,,No violations detected,False
+pubg_real_0022,pubg,real,False,,,No violations detected,False
+pubg_real_0023,pubg,real,False,,,No violations detected,False
+pubg_real_0024,pubg,real,False,,,No violations detected,False
+pubg_real_0025,pubg,real,False,,,No violations detected,False
+pubg_real_0026,pubg,real,False,,,No violations detected,False
+pubg_real_0027,pubg,real,False,,,No violations detected,False
+pubg_real_0028,pubg,real,False,,,No violations detected,False
+pubg_real_0029,pubg,real,False,,,No violations detected,False
+pubg_shuffled_0000,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0001,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0002,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0003,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0004,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0005,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0006,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0007,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0008,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0009,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0010,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0011,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0012,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0013,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0014,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0015,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0016,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0017,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0018,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0019,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0020,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0021,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0022,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0023,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0024,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0025,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0026,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0027,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0028,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True
+pubg_shuffled_0029,pubg,shuffled,True,health_out_of_bounds,1.0,"Player player_1 health=200 not in [0,100] at position 1",True

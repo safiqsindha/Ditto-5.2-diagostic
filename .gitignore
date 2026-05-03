@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment / secrets
+.env
+.env.*
+*.key
+
+# Derived / intermediate data (never commit)
+data/derived/
+
+# Large data files (use explicit .gitkeep for tracked empty dirs)
+data/v5.1_raw/**
+data/v5_corpus/**
+data/v1_corpus/**
+!data/v5.1_raw/.gitkeep
+!data/v5_corpus/.gitkeep
+!data/v1_corpus/.gitkeep
+
+# Budget tracker has real content — tracked
+# budget_tracker.csv is NOT ignored
+
+# OS
+.DS_Store
+Thumbs.db

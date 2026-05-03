@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "ditto-ddk-v0.1"
+version = "0.1.0"
+description = "Ditto Diagnostic Kit v0.1 — pre-registered analysis suite"
+authors = [
+    {name = "Safiq Sindha"},
+    {name = "Myriam Sindha"},
+]
+requires-python = ">=3.11"
+readme = "README.md"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["tier0*", "tier1*", "utils*", "tests*"]

@@ -1,0 +1,61 @@
+chain_id,domain,chain_type,symbolic_violation,violation_type,violation_position,details,symbolic_pred_shuffled
+poker_real_0000,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0001,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0002,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0003,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0004,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0005,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0006,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0007,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0008,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0009,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0010,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0011,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0012,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0013,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0014,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0015,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0016,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0017,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0018,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0019,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0020,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0021,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0022,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0023,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0024,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0025,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0026,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0027,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0028,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_real_0029,poker,real,False,,,No violations detected. Note: Poker is Tier 0 saturated — detection may be trivial.,False
+poker_shuffled_0000,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0001,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0002,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0003,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0004,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0005,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0006,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0007,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0008,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0009,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0010,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0011,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0012,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0013,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0014,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0015,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0016,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0017,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0018,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0019,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0020,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0021,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0022,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0023,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0024,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0025,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0026,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0027,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0028,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True
+poker_shuffled_0029,poker,shuffled,True,duplicate_card,0.0,Card 'AH' appears more than once at position 0,True

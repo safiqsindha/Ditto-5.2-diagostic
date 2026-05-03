@@ -1,0 +1,13 @@
+model,mechanism,count,share
+gemini-3-flash-preview,active_flip,16,0.32
+gemini-3-flash-preview,abstention,25,0.5
+gemini-3-flash-preview,output_breakdown,0,0.0
+gemini-3-flash-preview,unclear,9,0.18
+gpt-5,active_flip,17,0.34
+gpt-5,abstention,14,0.28
+gpt-5,output_breakdown,0,0.0
+gpt-5,unclear,19,0.38
+gpt-5.4-mini,active_flip,17,0.34
+gpt-5.4-mini,abstention,18,0.36
+gpt-5.4-mini,output_breakdown,0,0.0
+gpt-5.4-mini,unclear,15,0.3
