@@ -7,9 +7,9 @@ seaborn>=0.12
 scikit-learn>=1.3
 statsmodels>=0.14
 
-# Bayesian inference (D-0.3)
-pymc>=5.0
-arviz>=0.17
+# Bayesian inference (D-0.3) — optional, only needed for full PyMC model
+# pymc>=5.0   # skip: pytensor has a metadata bug on macOS Python 3.9
+# arviz>=0.17  # skip: only needed alongside pymc
 
 # API clients (Tier 1)
 anthropic>=0.25
